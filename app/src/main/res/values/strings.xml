@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes Demo</string>
+    <string name="title">Your Notes</string>
+    <string name="pinned">Pinned</string>
+    <string name="note_app">Note App</string>
+    <string name="titletxt">Title</string>
+</resources>
